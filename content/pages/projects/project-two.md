@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'PROYECTO DE TÍTULO: REESTRUCTURACIÓN | LICEO 4 Y ESCUELA ISRAEL'
+title: REESTRUCTURACIÓN | LICEO 4 Y ESCUELA ISRAEL
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
