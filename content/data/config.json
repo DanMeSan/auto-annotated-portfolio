@@ -71,7 +71,7 @@
         ],
         "contacts": {
             "type": "ContactBlock",
-            "title": "Contacto",
+            "title": "Contact details",
             "phoneNumber": "+56948508027",
             "phoneAltText": "My phone number",
             "email": "daniel.medina.s@ug.uchile.cl",
