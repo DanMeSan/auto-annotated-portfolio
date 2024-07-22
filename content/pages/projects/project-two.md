@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Portada PPTITULO.png
-  altText: PROYECTO DE TÍTULO
+  altText: ''
 media:
   type: ImageBlock
   url: /images/bg2.jpg
